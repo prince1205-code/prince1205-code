@@ -88,8 +88,11 @@ that solve a problem someone actually has.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prince1205-code&show_icons=true&hide_border=true&rank_icon=github&title_color=0f766e&icon_color=0f766e&text_color=334155&bg_color=ffffff" alt="Prince's GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince1205-code&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Prince's most used languages" width="41%" />
+<a href="https://github.com/prince1205-code?tab=repositories"><strong>Explore all repositories</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/prince1205-code?tab=projects"><strong>View projects</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/prince1205-code?tab=activity"><strong>See recent activity</strong></a>
 
 </div>
 
